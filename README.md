@@ -2,6 +2,22 @@
 I'm a full-stack developer and MSc AI student currently working on the IFFA Awards backend along with a few personal full-stack projects, including AI-driven applications. I'm always open to collaborating on full-stack or AI-focused projects and love learning new things — right now I'm diving into session-based authentication, access-control systems, DevOps, backend engineering, and building smarter AI-powered features. Ask me anything about Spring Boot, Next.js, AWS, or combining AI with full-stack development. Fun fact: I enjoy polishing and enhancing my projects even after they work perfectly — I love pushing things from “good” to “great.”
 
 
+<html>
+<head>
+<style>
+  body{
+    background: red;
+  }
+</style>
+</head>
+
+<body>
+Test
+</body>
+</html>
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanishq-bedi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishq.bedi@gmail.com) [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff)](https://leetcode.com/TANISHQBEDI) [![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=flat)](https://hackerrank.com/tanishq_bedi) [![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=fff&style=flat)](https://auth.geeksforgeeks.org/user/tanishemo9)
 
