@@ -2,7 +2,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================  
 Masters of AI @ RMIT University 
 -------------------------------  
-I'm a full-stack developer and MSc AI student currently working on the IFFA Awards backend along with a few personal full-stack projects, including AI-driven applications. I'm always open to collaborating on full-stack or AI-focused projects and love learning new things — right now I'm diving into session-based authentication, access-control systems, DevOps, backend engineering, and building smarter AI-powered features. Ask me anything about Spring Boot, Next.js, AWS, or combining AI with full-stack development. Fun fact: I enjoy polishing and enhancing my projects even after they work perfectly — I love pushing things from “good” to “great.”  * 🌍  I'm based in Melbourne * ✉️  You can contact me at [tanishq.bedi@gmail.com](mailto:tanishq.bedi@gmail.com) * 🚀  I'm currently working on [IFFA](http://iffa.com.au) * 🧠  I'm currently learning Redis, Session based auth, RBAC/ ABAC, AI Driven Apps * 👥  I'm looking to collaborate on AI projects, Full-Stack Projects * 💬  Ask me about I like to keep polishing my codebase wherever possible! Why settle for better when you can do best?
+I'm a full-stack developer and MSc AI student currently building the backend for the IFFA Awards and working on several personal full-stack and AI-driven projects. I enjoy collaborating on anything related to full-stack development or applied AI, and I'm constantly expanding my toolkit — lately diving into session-based authentication, access-control models (RBAC/ABAC), DevOps, backend engineering, and smarter AI-powered features.
+Fun fact: I love refining and elevating my projects even after they’re fully functional — pushing things from “working well” to “working exceptionally.”
+* 🌍 Based in Melbourne
+* ✉️ Contact: tanishq.bedi@gmail.com
+* 🚀 Currently working on: [IFFA](https://iffa.com.au) and side projects
+* 🧠 Currently learning: Redis, session-based auth, RBAC/ABAC, AI-driven app development
+* 👥 Open to collaborate on: AI projects, full-stack applications
+* 💬 Ask me about: Anything full-stack, backend, cloud, or AI — always happy to chat!
 
 
 ## 🌐 Socials:
