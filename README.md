@@ -51,10 +51,18 @@ I'm a full-stack developer and MSc AI student currently working on the IFFA Awar
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154F9B?style=plastic&logoColor=white)
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=TANISHQBEDI&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=TANISHQBEDI&theme=black-ice&short_numbers=true&stroke=EB5454&hide_current_streak=true)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TANISHQBEDI&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ---
 
